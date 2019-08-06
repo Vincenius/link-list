@@ -177,7 +177,7 @@ Art of command line: [https://github.com/jlevy/the-art-of-command-line](https://
 
 ## Other:
 
-<head> Elements: [https://gethead.info/](https://gethead.info/)
+head Elements: [https://gethead.info/](https://gethead.info/)
   
 Public APIs: [https://public-apis.xyz](https://public-apis.xyz)
 
