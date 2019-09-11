@@ -62,6 +62,8 @@ List of tools: [https://toolsformakers.com/](https://toolsformakers.com/)
 
 ## Image Tools:
 
+SVG animations: [https://svgartista.net/](https://svgartista.net/)
+
 Screenshots on devices mockups: [https://mockup.photos/freebies](https://mockup.photos/freebies)
 
 Screenshots to design mockup : [https://www.screely.com/](https://www.screely.com/)
@@ -98,12 +100,16 @@ Links for website testing: [https://adamgreenough.me/blog/free-online-testing-to
 
 Self hosted email list: [https://listmonk.app/](https://listmonk.app/)
 
+Desktop Apps with React: [https://github.com/nodegui/react-nodegui](https://github.com/nodegui/react-nodegui)
+
 
 ## CSS Stuff:
 
 CSS animation generator: [http://animista.net/play/basic](http://animista.net/play/basic)
 
 CSS Fix browser defaults: [https://github.com/kognise/water.css](https://github.com/kognise/water.css)
+
+Augumented UI: [http://augmented-ui.com/](http://augmented-ui.com/)
 
 NES CSS framework: [https://bcrikko.github.io/NES.css/](https://bcrikko.github.io/NES.css/)
 
@@ -117,6 +123,8 @@ Dark mode: [https://github.com/sandoche/Darkmode.js](https://github.com/sandoche
 Minimalist Jquery: [https://github.com/vladocar/nanoJS](https://github.com/vladocar/nanoJS)
 
 Simple lightbox: [https://github.com/rqrauhvmra/Tobi](https://github.com/rqrauhvmra/Tobi)
+
+Noisy gradient: [https://github.com/apankrat/js-noisy-gradient](https://github.com/apankrat/js-noisy-gradient)
 
 Parallax vanilla JS: [https://chriscavs.github.io/rallax-demo/](https://chriscavs.github.io/rallax-demo/)
 
