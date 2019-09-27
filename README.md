@@ -13,6 +13,7 @@ Landing pages: [https://interfaces.pro/](https://interfaces.pro/)
 Portfolios: [https://github.com/iRaul/awesome-portfolios](https://github.com/iRaul/awesome-portfolios)
 
 
+
 ## Illustrations:
 
 [https://undraw.co/illustrations](https://undraw.co/illustrations)
@@ -24,6 +25,7 @@ Portfolios: [https://github.com/iRaul/awesome-portfolios](https://github.com/iRa
 [https://lukaszadam.com/illustrations](https://lukaszadam.com/illustrations)
 
 [https://www.humaaans.com](https://www.humaaans.com)
+
 
 
 ## Backgrounds:
@@ -49,6 +51,7 @@ Moving background on scroll: [https://codersblock.com/blog/physics-based-backgro
 Icon pattern generator: [https://pattern.flaticon.com/](https://pattern.flaticon.com/)
 
 
+
 ## General Tools:
 
 Checklist: [https://www.checkli.com](https://www.checkli.com)
@@ -60,9 +63,12 @@ Install multiple programs at once: [https://ninite.com/](https://ninite.com/)
 List of tools: [https://toolsformakers.com/](https://toolsformakers.com/)
 
 
+
 ## Image Tools:
 
 SVG animations: [https://svgartista.net/](https://svgartista.net/)
+
+More animations: [https://lottiefiles.com/](https://lottiefiles.com/)
 
 Screenshots on devices mockups: [https://mockup.photos/freebies](https://mockup.photos/freebies)
 
@@ -103,6 +109,7 @@ Self hosted email list: [https://listmonk.app/](https://listmonk.app/)
 Desktop Apps with React: [https://github.com/nodegui/react-nodegui](https://github.com/nodegui/react-nodegui)
 
 
+
 ## CSS Stuff:
 
 CSS animation generator: [http://animista.net/play/basic](http://animista.net/play/basic)
@@ -114,6 +121,7 @@ Augumented UI: [http://augmented-ui.com/](http://augmented-ui.com/)
 NES CSS framework: [https://bcrikko.github.io/NES.css/](https://bcrikko.github.io/NES.css/)
 
 Generate clip-path: [https://bennettfeely.com/clippy/](https://bennettfeely.com/clippy/)
+
 
 
 ## Javascript Stuff:
@@ -143,19 +151,21 @@ React animation library: [https://www.framer.com/motion/](https://www.framer.com
 Console project demo: [https://glorious.codes/demo](https://glorious.codes/demo)
 
 
-## Blogs / Forums:
+
+## Stay up to date:
 
 [https://tympanus.net/codrops/](https://tympanus.net/codrops/)
 
 [https://dev.to/](https://dev.to/)
-
-[https://www.freecodecamp.org/news/](https://www.freecodecamp.org/news/)
 
 [https://news.ycombinator.com/](https://news.ycombinator.com/)
 
 [https://www.reddit.com/r/webdev](https://www.reddit.com/r/webdev)
 
 [https://www.reddit.com/r/web_design/](https://www.reddit.com/r/web_design/)
+
+[https://www.freecodecamp.org/news/](https://www.freecodecamp.org/news/)
+
 
 
 ## CMS:
@@ -165,22 +175,13 @@ Static page generator CMS: [https://getpublii.com/](https://getpublii.com/)
 Simple CMS: [https://www.vapid.com/](https://www.vapid.com/)
 
 
+
 ## SEO:
 
 SEO Test: [https://www.seoptimer.com](https://www.seoptimer.com)
 
 Keyword finder: [https://lsigraph.com/](https://lsigraph.com/)
 
-
-## Reads:
-
-Design improvements: [https://medium.com/refactoring-ui/7-practical-tips-for-cheating-at-design-40c736799886](https://medium.com/refactoring-ui/7-practical-tips-for-cheating-at-design-40c736799886)
-
-Matching fonts: [https://medium.freecodecamp.org/low-hanging-design-fruit-why-you-should-use-google-font-superfamilies-1dae04b2fc50](https://medium.freecodecamp.org/low-hanging-design-fruit-why-you-should-use-google-font-superfamilies-1dae04b2fc50)
-
-Visual Studio Code Extensions: [https://medium.freecodecamp.org/immensely-upgrade-your-development-environment-with-these-visual-studio-code-extensions-9cd790478530](https://medium.freecodecamp.org/immensely-upgrade-your-development-environment-with-these-visual-studio-code-extensions-9cd790478530)
-
-Art of command line: [https://github.com/jlevy/the-art-of-command-line](https://github.com/jlevy/the-art-of-command-line)
 
 
 ## Other:
