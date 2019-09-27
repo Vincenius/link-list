@@ -46,8 +46,6 @@ Free to use stock videos: [https://mixkit.co](https://mixkit.co)
 
 Background moving particles: [https://vincentgarreau.com/particles.js/](https://vincentgarreau.com/particles.js/)
 
-Moving background on scroll: [https://codersblock.com/blog/physics-based-background-scroll-effects/](https://codersblock.com/blog/physics-based-background-scroll-effects/)
-
 Icon pattern generator: [https://pattern.flaticon.com/](https://pattern.flaticon.com/)
 
 
@@ -94,7 +92,7 @@ Aspect ratio calculator: [https://calculateaspectratio.com/](https://calculateas
 
 
 
-## Webdev Tools:
+## Webdev Stuff:
 
 Forms without backend: [https://usebasin.com/](https://usebasin.com/)
 
@@ -105,8 +103,6 @@ PWA generator: [https://www.pwabuilder.com/](https://www.pwabuilder.com/)
 Links for website testing: [https://adamgreenough.me/blog/free-online-testing-tools-for-your-website/](https://adamgreenough.me/blog/free-online-testing-tools-for-your-website/)
 
 Self hosted email list: [https://listmonk.app/](https://listmonk.app/)
-
-Desktop Apps with React: [https://github.com/nodegui/react-nodegui](https://github.com/nodegui/react-nodegui)
 
 
 
