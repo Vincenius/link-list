@@ -26,6 +26,8 @@ Portfolios: [https://github.com/iRaul/awesome-portfolios](https://github.com/iRa
 
 [https://www.humaaans.com](https://www.humaaans.com)
 
+[https://www.glazestock.com/](https://www.glazestock.com/)
+
 
 
 ## Backgrounds:
@@ -71,6 +73,8 @@ More animations: [https://lottiefiles.com/](https://lottiefiles.com/)
 Screenshots on devices mockups: [https://mockup.photos/freebies](https://mockup.photos/freebies)
 
 Screenshots to design mockup : [https://www.screely.com/](https://www.screely.com/)
+
+Design Mockup: [https://www.figma.com/](https://www.figma.com/)
 
 Sourcecode to image: [https://carbon.now.sh](https://carbon.now.sh)
 
