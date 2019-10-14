@@ -150,7 +150,7 @@ React animation library: [https://www.framer.com/motion/](https://www.framer.com
 
 Console project demo: [https://glorious.codes/demo](https://glorious.codes/demo)
 
-
+Dragable, Rotatable, Resizable boxes: https://daybrush.com/moveable/
 
 ## Stay up to date:
 
