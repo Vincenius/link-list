@@ -126,6 +126,14 @@ Generate clip-path: [https://bennettfeely.com/clippy/](https://bennettfeely.com/
 
 
 
+## HTML Templates
+
+[https://html5up.net/](https://html5up.net/)
+
+[https://templated.co/](https://templated.co/)
+
+
+
 ## Javascript Stuff:
 
 Dark mode: [https://github.com/sandoche/Darkmode.js](https://github.com/sandoche/Darkmode.js)
