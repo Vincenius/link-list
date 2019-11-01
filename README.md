@@ -62,6 +62,8 @@ Check text before posting: [http://hemingwayapp.com/](http://hemingwayapp.com/)
 
 Install multiple programs at once: [https://ninite.com/](https://ninite.com/)
 
+Free tools for devs: [https://free-for.dev/#/](https://free-for.dev/)
+
 List of tools: [https://toolsformakers.com/](https://toolsformakers.com/)
 
 
