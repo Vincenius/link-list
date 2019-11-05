@@ -52,6 +52,7 @@ Background moving particles: [https://vincentgarreau.com/particles.js/](https://
 
 Icon pattern generator: [https://pattern.flaticon.com/](https://pattern.flaticon.com/)
 
+CSS Waves: [https://csspoints.com/css-wave-effect-responsive-design/](https://csspoints.com/css-wave-effect-responsive-design/)
 
 
 ## General Tools:
