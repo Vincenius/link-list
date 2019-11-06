@@ -103,6 +103,8 @@ Aspect ratio calculator: [https://calculateaspectratio.com/](https://calculateas
 
 ## Webdev Stuff:
 
+Test for Accessibility: [https://wave.webaim.org](https://wave.webaim.org)
+
 Forms without backend: [https://usebasin.com/](https://usebasin.com/)
 
 Locale certificates (https): [https://github.com/FiloSottile/mkcert](https://github.com/FiloSottile/mkcert)
