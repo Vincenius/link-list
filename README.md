@@ -105,6 +105,8 @@ Aspect ratio calculator: [https://calculateaspectratio.com/](https://calculateas
 
 ## Webdev Stuff:
 
+Static Site Generators Overview: [https://www.staticgen.com/](https://www.staticgen.com/)
+
 Test for Accessibility: [https://wave.webaim.org](https://wave.webaim.org)
 
 Forms without backend: [https://usebasin.com/](https://usebasin.com/)
@@ -193,6 +195,8 @@ Dragable, Rotatable, Resizable boxes: https://daybrush.com/moveable/
 Static page generator CMS: [https://getpublii.com/](https://getpublii.com/)
 
 Simple CMS: [https://www.vapid.com/](https://www.vapid.com/)
+
+Headless CMS Overview [https://headlesscms.org/](https://headlesscms.org/)
 
 
 
