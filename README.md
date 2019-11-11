@@ -54,6 +54,8 @@ Icon pattern generator: [https://pattern.flaticon.com/](https://pattern.flaticon
 
 CSS Waves: [https://csspoints.com/css-wave-effect-responsive-design/](https://csspoints.com/css-wave-effect-responsive-design/)
 
+CSS Gradient Waves: [https://www.outpan.com/app/9aaaf27303/svg-gradient-wave-generator](https://www.outpan.com/app/9aaaf27303/svg-gradient-wave-generator)
+
 
 ## General Tools:
 
@@ -115,6 +117,7 @@ Links for website testing: [https://adamgreenough.me/blog/free-online-testing-to
 
 Self hosted email list: [https://listmonk.app/](https://listmonk.app/)
 
+Animated Icons: [https://lordicon.com/](https://lordicon.com/)
 
 
 ## CSS Stuff:
@@ -166,6 +169,8 @@ React animation library: [https://www.framer.com/motion/](https://www.framer.com
 Console project demo: [https://glorious.codes/demo](https://glorious.codes/demo)
 
 Dragable, Rotatable, Resizable boxes: https://daybrush.com/moveable/
+
+
 
 ## Stay up to date:
 
