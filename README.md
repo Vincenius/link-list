@@ -174,7 +174,9 @@ React animation library: [https://www.framer.com/motion/](https://www.framer.com
 
 Console project demo: [https://glorious.codes/demo](https://glorious.codes/demo)
 
-Dragable, Rotatable, Resizable boxes: https://daybrush.com/moveable/
+Dragable, Rotatable, Resizable boxes: [https://daybrush.com/moveable/](https://daybrush.com/moveable/)
+
+React Hooks for remote data fetching: [https://swr.now.sh/](https://swr.now.sh/)
 
 
 
