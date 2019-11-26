@@ -125,6 +125,8 @@ Self hosted email list: [https://listmonk.app/](https://listmonk.app/)
 
 Animated Icons: [https://lordicon.com/](https://lordicon.com/)
 
+React Codebase Generator: [https://divjoy.com/](https://divjoy.com/)
+
 
 ## CSS Stuff:
 
