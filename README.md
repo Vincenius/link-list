@@ -198,6 +198,8 @@ React Hooks for remote data fetching: [https://swr.now.sh/](https://swr.now.sh/)
 
 [https://www.freecodecamp.org/news/](https://www.freecodecamp.org/news/)
 
+Self Promotion: [https://vincentwill.com/](https://vincentwill.com/)
+
 
 
 ## CMS:
