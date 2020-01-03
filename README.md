@@ -81,6 +81,8 @@ List of tools: [https://toolsformakers.com/](https://toolsformakers.com/)
 
 SVG animations: [https://svgartista.net/](https://svgartista.net/)
 
+Convert images to SVG: [https://convert2svg.com/](https://convert2svg.com/)
+
 More animations: [https://lottiefiles.com/](https://lottiefiles.com/)
 
 Screenshots on devices mockups: [https://mockup.photos/freebies](https://mockup.photos/freebies)
