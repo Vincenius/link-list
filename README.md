@@ -42,6 +42,8 @@ Portfolios: [https://github.com/iRaul/awesome-portfolios](https://github.com/iRa
 
 SVG backgrounds: [https://www.svgbackgrounds.com/](https://www.svgbackgrounds.com/)
 
+Gradient Magic: [https://www.gradientmagic.com/](https://www.gradientmagic.com/)
+
 CSS moving background: [https://codepen.io/Mamboleoo/full/BxMQYQ/](https://codepen.io/Mamboleoo/full/BxMQYQ/)
 
 Triangle background generator: [https://trianglify.io/](https://trianglify.io/)
