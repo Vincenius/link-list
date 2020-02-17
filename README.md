@@ -202,6 +202,10 @@ React Hooks for remote data fetching: [https://swr.now.sh/](https://swr.now.sh/)
 
 [https://www.freecodecamp.org/news/](https://www.freecodecamp.org/news/)
 
+[https://www.webdesignernews.com/](https://www.webdesignernews.com/)
+
+[https://sidebar.io/](https://sidebar.io/)
+
 Self Promotion: [https://wweb.dev/](https://wweb.dev/)
 
 
