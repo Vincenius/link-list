@@ -16,6 +16,8 @@ Portfolios: [https://github.com/iRaul/awesome-portfolios](https://github.com/iRa
 
 ## Illustrations:
 
+List of websites for SVG illustrations: [https://wweb.dev/resources/free-svg-illustrations](https://wweb.dev/resources/free-svg-illustrations)
+
 [https://undraw.co/illustrations](https://undraw.co/illustrations)
 
 [https://gallery.manypixels.co/](https://gallery.manypixels.co/)
@@ -40,6 +42,8 @@ Portfolios: [https://github.com/iRaul/awesome-portfolios](https://github.com/iRa
 
 ## Backgrounds:
 
+List of websites for backgrounds: [https://wweb.dev/resources/creative-backgrounds](https://wweb.dev/resources/creative-backgrounds)
+
 SVG backgrounds: [https://www.svgbackgrounds.com/](https://www.svgbackgrounds.com/)
 
 Gradient Magic: [https://www.gradientmagic.com/](https://www.gradientmagic.com/)
@@ -63,6 +67,8 @@ Icon pattern generator: [https://pattern.flaticon.com/](https://pattern.flaticon
 CSS Waves: [https://csspoints.com/css-wave-effect-responsive-design/](https://csspoints.com/css-wave-effect-responsive-design/)
 
 CSS Gradient Waves: [https://www.outpan.com/app/9aaaf27303/svg-gradient-wave-generator](https://www.outpan.com/app/9aaaf27303/svg-gradient-wave-generator)
+
+Animated CSS Background Generator: [https://wweb.dev/resources/animated-css-background-generator](hhttps://wweb.dev/resources/animated-css-background-generator)
 
 
 ## General Tools:
@@ -135,6 +141,8 @@ React Codebase Generator: [https://divjoy.com/](https://divjoy.com/)
 
 
 ## CSS Stuff:
+
+Generator for CSS separators: [https://wweb.dev/resources/css-separator-generator](https://wweb.dev/resources/css-separator-generator)
 
 CSS animation generator: [http://animista.net/play/basic](http://animista.net/play/basic)
 
