@@ -68,7 +68,7 @@ CSS Waves: [https://csspoints.com/css-wave-effect-responsive-design/](https://cs
 
 CSS Gradient Waves: [https://www.outpan.com/app/9aaaf27303/svg-gradient-wave-generator](https://www.outpan.com/app/9aaaf27303/svg-gradient-wave-generator)
 
-Animated CSS Background Generator: [https://wweb.dev/resources/animated-css-background-generator](hhttps://wweb.dev/resources/animated-css-background-generator)
+Animated CSS Background Generator: [https://wweb.dev/resources/animated-css-background-generator](https://wweb.dev/resources/animated-css-background-generator)
 
 
 ## General Tools:
