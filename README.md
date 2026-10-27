@@ -116,8 +116,7 @@ Diagrams: [https://www.draw.io/](https://www.draw.io/)
 Avatar placeholder generator: [https://avatars.dicebear.com/](https://avatars.dicebear.com/)
 
 Aspect ratio calculator: [https://calculateaspectratio.com/](https://calculateaspectratio.com/)
-
-
+Image compressor (local WASM): [https://imgflow.taoliapp.com/en/](https://imgflow.taoliapp.com/en/)
 
 ## Webdev Stuff:
 
